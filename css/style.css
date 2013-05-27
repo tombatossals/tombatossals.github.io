@@ -905,7 +905,7 @@
 
 		#top .me
 		{
-			border-radius: 50%;
+			border-radius: 1em;
 			overflow: hidden;
 		}
 
